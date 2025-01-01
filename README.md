@@ -5,9 +5,13 @@ A clean, responsive documentation template theme for JSDoc 3.
 ![Minami Screenshot](http://i.imgur.com/rPCIFqT.png)
 
 
+## This Fork Changes
+
+- [@jsdoc/salty](github.com/jsdoc/jsdoc}) replaces TaffyDB
+- Add a custom css file for addtional styling
+
 ## Uses
 
-- [the Taffy Database library](http://taffydb.com/)
 - [Underscore Template library](http://underscorejs.org/#template)
 - [Montserrat](https://fonts.google.com/specimen/Montserrat) & Helvetica Neue
 
