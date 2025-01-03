@@ -9,5 +9,9 @@
     "access": "public"
   },
   "author": "Lindsay Dent <lwdent69@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@jsdoc/salty": "^0.2.9",
+    "jsdoc": "^4.0.4"
+  }
 }
